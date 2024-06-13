@@ -1,0 +1,11 @@
+/mnt/c/Users/narut/Documents/linux_code/Pinax_project/gmbuilder/target/debug/deps/libprost_derive-839fee2a8ca9307b.so: /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/lib.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/mod.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/group.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/map.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/message.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/oneof.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/scalar.rs
+
+/mnt/c/Users/narut/Documents/linux_code/Pinax_project/gmbuilder/target/debug/deps/prost_derive-839fee2a8ca9307b.d: /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/lib.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/mod.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/group.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/map.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/message.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/oneof.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/scalar.rs
+
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/lib.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/mod.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/group.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/map.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/message.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/oneof.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.11.9/src/field/scalar.rs:

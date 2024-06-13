@@ -1,0 +1,136 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+package contract.v1;
+
+message Events {
+    repeated gm_BlogCreated gm_blog_createds = 1;
+    repeated gm_BlogTipped gm_blog_tippeds = 2;
+    repeated gm_BlogViewed gm_blog_vieweds = 3;
+    repeated gm_NewsTipped gm_news_tippeds = 4;
+    repeated gm_NewsViewed gm_news_vieweds = 5;
+    repeated gm_OwnershipTransferRequested gm_ownership_transfer_requesteds = 6;
+    repeated gm_OwnershipTransferred gm_ownership_transferreds = 7;
+    repeated gm_RequestFulfilled gm_request_fulfilleds = 8;
+    repeated gm_RequestSent gm_request_sents = 9;
+    repeated gm_Response gm_responses = 10;
+    repeated gm_UserUpdated gm_user_updateds = 11;
+    repeated gm_NewsCreated gm_news_createds = 12;
+}
+
+message gm_BlogCreated {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    string blog_id = 5;
+    string blog_link = 6;
+    bytes owner = 7;
+    repeated string categories = 8;
+}
+
+message gm_BlogTipped {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    string blog_id = 5;
+    bytes tipper = 6;
+    string amount = 7;
+}
+
+message gm_BlogViewed {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    string id = 5;
+    string views = 6;
+}
+
+message gm_NewsTipped {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    string blog_id = 5;
+    bytes tipper = 6;
+    string amount = 7;
+}
+
+message gm_NewsViewed {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    string id = 5;
+    string views = 6;
+}
+
+message gm_OwnershipTransferRequested {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    bytes from = 5;
+    bytes to = 6;
+}
+
+message gm_OwnershipTransferred {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    bytes from = 5;
+    bytes to = 6;
+}
+
+message gm_RequestFulfilled {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    bytes id = 5;
+}
+
+message gm_RequestSent {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    bytes id = 5;
+}
+
+message gm_Response {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    bytes request_id = 5;
+    string character = 6;
+    bytes response = 7;
+    bytes err = 8;
+}
+
+message gm_UserUpdated {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    bytes user_address = 5;
+    string name = 6;
+    string username = 7;
+    repeated string interest = 8;
+    string profile_url = 9;
+}
+
+message gm_NewsCreated {
+    string evt_tx_hash = 1;
+    uint32 evt_index = 2;
+    google.protobuf.Timestamp evt_block_time = 3;
+    uint64 evt_block_number = 4;
+    string blog_id = 5;
+    string blog_link = 6;
+    repeated string categories = 7;
+}

@@ -1,0 +1,15 @@
+/mnt/c/Users/narut/Documents/linux_code/Pinax_project/gmbuilder/target/debug/deps/anyhow-77deb53df7ad23fb.rmeta: /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/lib.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/backtrace.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/chain.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/context.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ensure.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/error.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/fmt.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/kind.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/macros.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ptr.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/wrapper.rs
+
+/mnt/c/Users/narut/Documents/linux_code/Pinax_project/gmbuilder/target/debug/deps/anyhow-77deb53df7ad23fb.d: /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/lib.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/backtrace.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/chain.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/context.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ensure.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/error.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/fmt.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/kind.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/macros.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ptr.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/wrapper.rs
+
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/lib.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/backtrace.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/chain.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/context.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ensure.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/error.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/fmt.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/kind.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/macros.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ptr.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/wrapper.rs:

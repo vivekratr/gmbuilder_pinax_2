@@ -1,0 +1,12 @@
+/mnt/c/Users/narut/Documents/linux_code/Pinax_project/gmbuilder/target/wasm32-unknown-unknown/release/deps/prost-579edb2ded077b5b.rmeta: /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/lib.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/error.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/message.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/types.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/encoding.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/../README.md
+
+/mnt/c/Users/narut/Documents/linux_code/Pinax_project/gmbuilder/target/wasm32-unknown-unknown/release/deps/libprost-579edb2ded077b5b.rlib: /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/lib.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/error.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/message.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/types.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/encoding.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/../README.md
+
+/mnt/c/Users/narut/Documents/linux_code/Pinax_project/gmbuilder/target/wasm32-unknown-unknown/release/deps/prost-579edb2ded077b5b.d: /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/lib.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/error.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/message.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/types.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/encoding.rs /home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/../README.md
+
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/lib.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/error.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/message.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/types.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/encoding.rs:
+/home/zoro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/../README.md:

@@ -1,0 +1,116 @@
+type gm_blog_created @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    blog_id: BigDecimal!
+    blog_link: String!
+    categories: [String!]!
+    owner: String!
+}
+type gm_blog_tipped @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    amount: BigDecimal!
+    blog_id: BigDecimal!
+    tipper: String!
+}
+type gm_blog_viewed @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    id: BigDecimal!
+    views: BigDecimal!
+}
+type gm_news_tipped @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    amount: BigDecimal!
+    blog_id: BigDecimal!
+    tipper: String!
+}
+type gm_news_viewed @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    id: BigDecimal!
+    views: BigDecimal!
+}
+type gm_ownership_transfer_requested @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    from: String!
+    to: String!
+}
+type gm_ownership_transferred @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    from: String!
+    to: String!
+}
+type gm_request_fulfilled @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    id: String!
+}
+type gm_request_sent @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    id: String!
+}
+type gm_response @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    character: String!
+    err: String!
+    request_id: String!
+    response: String!
+}
+type gm_user_updated @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    interest: [String!]!
+    name: String!
+    profile_url: String!
+    user_address: String!
+    username: String!
+}
+type gm_news_created @entity {
+    id: ID!
+    evt_tx_hash: String!
+    evt_index: BigInt!
+    evt_block_time: String!
+    evt_block_number: BigInt!
+    blog_id: BigDecimal!
+    blog_link: String!
+    categories: [String!]!
+}
